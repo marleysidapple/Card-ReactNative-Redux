@@ -7,7 +7,7 @@
 import React, { Component } from 'react';
 import App from './src/App';
 import {
-  AppRegistry,
+  AppRegistry
 } from 'react-native';
 
 
